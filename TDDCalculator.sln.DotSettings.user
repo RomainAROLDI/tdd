@@ -1,0 +1,21 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=69db8be7_002De6fb_002D45fe_002Da5d7_002Da5e857cace7f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UnitTest1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::11C72BD8-2991-4010-9503-5E8535333AE4::net7.0::TDDCalculator.UnitTests.UnitTest1&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=96d50bb7_002D9724_002D4e94_002D9faa_002D73287b2b98be/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CheckIfStringIsEmpty_EmptyInput_ReturnsTrue" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::D8D8E03D-4855-4BEA-B883-A2351D5A7AD3::net7.0::TDDCalculator.UnitTests.CalculatorTests.CheckIfStringIsEmpty_EmptyInput_ReturnsTrue&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b0cd9dba_002D5cee_002D439b_002Dbead_002D208cc6cc7e6d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="UnitTest1 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::D8D8E03D-4855-4BEA-B883-A2351D5A7AD3::net7.0::TDDCalculator.UnitTests.CalculatorTests.GetDelimiterFromString_EmptyInput_ThrowsArgumentNullException&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::D8D8E03D-4855-4BEA-B883-A2351D5A7AD3::net7.0::TDDCalculator.UnitTests.CalculatorTests.IsStringStartByValue_Input_ReturnsBooleanIndicatesIfStringStartByValue&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::D8D8E03D-4855-4BEA-B883-A2351D5A7AD3::net7.0::TDDCalculator.UnitTests.CalculatorTests.IsStringStartByValue_ValueIsGreaterThanInput_ThrowsArgumentException&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::D8D8E03D-4855-4BEA-B883-A2351D5A7AD3::net7.0::TDDCalculator.UnitTests.CalculatorTests.GetDelimiterFromString_Input_ReturnsCorrectDelimiter&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::D8D8E03D-4855-4BEA-B883-A2351D5A7AD3::net7.0::TDDCalculator.UnitTests.CalculatorTests.GetRealInput_DelimiterIsNotPresentInInput_ThrowsArgumentException&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::D8D8E03D-4855-4BEA-B883-A2351D5A7AD3::net7.0::TDDCalculator.UnitTests.CalculatorTests.GetRealInput_Input_ReturnsCorrectRealInput&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
